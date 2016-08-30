@@ -57,3 +57,10 @@ body{
   left: 520px;
   float: left;
 }
+
+.text{
+  position: relative;
+  text-align: right;
+  top: -500px;
+  left: 500px;
+}
